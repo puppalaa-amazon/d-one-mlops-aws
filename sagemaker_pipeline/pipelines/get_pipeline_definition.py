@@ -32,7 +32,7 @@ def main():  # pragma: no cover
         "--module-name",
         dest="module_name",
         type=str,
-        help="The module name of the pipeline to import.",
+        help="The module name of the pipeline to import...test push with Personlaised access token ",
     )
     parser.add_argument(
         "-f",

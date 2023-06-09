@@ -35,7 +35,7 @@ def main():  # pragma: no cover
         "--module-name",
         dest="module_name",
         type=str,
-        help="The module name of the pipeline to import.",
+        help="The module name of the pipeline to import....",
     )
     parser.add_argument(
         "-kwargs",
